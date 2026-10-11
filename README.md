@@ -34,7 +34,7 @@ To deploy the utility globally across your terminal environment, execute the fol
 
 # Clone the repository
 ```bash
-git clone https://codeberg.org/Firewall-Crusher/IP-hopping.git
+git clone https://github.com/UG-ALOK/IP-hopping.git
 ```
 # Navigate to the project director
 ```bash
